@@ -9,21 +9,21 @@ product-shot-2.webp
 product-shot-3.webp
 product-shot-4.webp
 
+<div>
+<p> Sweetheart's Affair </p>
 
-Sweetheart's Affair
-
-Limited edition
-Red Velvet Cupcake, Peanut Butter Kiss and Chocolate Chip
+<p> Limited edition </p>
+<p> Red Velvet Cupcake, Peanut Butter Kiss and Chocolate Chip </p>
 
 $55.00
 
-Introducing our delectable trio of cookie dough flavors guaranteed to tantalize your taste buds like never before! Unveiling the ultimate indulgence in every bite, our cookie dough pack offers a divine selection of three mouthwatering flavors.
+<p> Introducing our delectable trio of cookie dough flavors guaranteed to tantalize your taste buds like never before! Unveiling the ultimate indulgence in every bite, our cookie dough pack offers a divine selection of three mouthwatering flavors. </p>
 
-Whether you're craving a classic favorite or eager to embark on a culinary journey, this trio has something for everyone. So go ahead, treat yourself to the ultimate cookie dough experience and discover pure bliss in every spoonful!
+<p> Whether you're craving a classic favorite or eager to embark on a culinary journey, this trio has something for everyone. So go ahead, treat yourself to the ultimate cookie dough experience and discover pure bliss in every spoonful! </p>
 
 Add to cart
 
-
+</div>
 
 Behind the Dough
 
