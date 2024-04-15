@@ -165,6 +165,7 @@ footer{
         display: flex;
         flex-wrap: wrap;
         gap: 20px;
+        justify-content: center;
     }
     
     .container_img .image0{
